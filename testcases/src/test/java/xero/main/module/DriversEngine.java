@@ -19,7 +19,7 @@ public class DriversEngine {
 	public static void main(String[] args) throws InterruptedException, IOException {
 		
 		LoginModule.t1();
-		/*LoginModule.t2();
+		LoginModule.t2();
 		LoginModule.t3();
 		//LoginModule.t4();
 		FreeTrailModule.t5();
@@ -33,8 +33,7 @@ public class DriversEngine {
 		//NewOrganizationModule.t13();
 		//NewOrganizationModule.t14();
 		NewOrganizationModule.t15();
-		*/
-		 AccountsModule.t16();
+		AccountsModule.t16();
 
 	}
 }
