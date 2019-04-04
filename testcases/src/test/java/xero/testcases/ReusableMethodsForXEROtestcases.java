@@ -282,7 +282,7 @@ public class ReusableMethodsForXEROtestcases {
 		System.out.println("end");
 		Logger.log(LogStatus.PASS, "extent report is ending");
 		Logger.log(LogStatus.FAIL, "extent report is not ending");
-		driver.quit();
+		
 
 	}
 			
