@@ -43,7 +43,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.2.1</version>
                 <configuration>
-                    <mainClass>xero.testcases.DriversEngine</mainClass>
+                    <mainClass>xero.main.module.DriversEngine</mainClass>
                 </configuration>
             </plugin>
  </plugins>  

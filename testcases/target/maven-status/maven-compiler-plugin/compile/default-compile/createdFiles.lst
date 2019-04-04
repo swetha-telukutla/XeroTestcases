@@ -1,3 +1,10 @@
+xero\testcases\FreeTrailModule.class
+xero\testcases\AllTabsModule.class
+xero\main\module\DriversEngine.class
+xero\testcases\LogOutTC.class
+xero\testcases\NewOrganizationModule.class
+xero\testcases\UploadImgModule.class
+xero\testcases\LoginModule.class
 xero\testcases\T1.class
 xero\testcases\ReusableMethodsForXEROtestcases.class
-xero\testcases\DriversEngine.class
+xero\testcases\AccountsModule.class
